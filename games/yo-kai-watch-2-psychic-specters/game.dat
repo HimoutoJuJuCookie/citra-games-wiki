@@ -1,0 +1,9 @@
+title = "Yo-Kai Watch 2: Psychic Specters"
+description = "Watch out! The strangely charming troublemakers, Yo-kai, are back for an all-new adventure! Find, befriend, and battle more than 350 new and returning Yo-kai. Hop on a train to seek out new towns and new Yo-kai. Teaming up with the heroic cat, Hovernyan, travel back in time to save Springdale, and witness the origin of the Yo-kai Watch!"
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B2900"
+region = "eur"
+release_date = "2014-07-10"
