@@ -1,0 +1,9 @@
+title = "Yo Kai Watch 2: Psychic Specters"
+description = "The strange but friendly troublemakers, Yo-kai, are back in a time-traveling adventure, and this time their mysterious world is packed with exclusive quests, Wicked Yo-kai to befriend, new areas to explore, and a revamped Blasters action co-op mode* featuring new bosses."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B2900"
+region = "eur"
+release_date = "2014-07-10"
